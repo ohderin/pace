@@ -1,3 +1,10 @@
+/*
+ * Author: Derin Ergul
+ * Date: 9/2/23
+ * CSC1351 Lauren Pace
+ * Description: This program assigns properties to a book, and checks it in or out from the library array.
+ */
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
