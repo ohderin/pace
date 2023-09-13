@@ -35,7 +35,6 @@ class BakeryItem extends CoffeeShopMenu {
         if (warmed) {
             System.out.print(", Warmed");
         }
-        System.out.println();
     }
 }
 
@@ -80,7 +79,6 @@ class Frappuccino extends Coffee {
         if (hasWhipCream) {
             System.out.print(", with whipcream");
         }
-        System.out.println();
     }
 }
 
