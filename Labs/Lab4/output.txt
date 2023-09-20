@@ -1,0 +1,7 @@
+My Movie Library
+*******************************************************************
+The Lord of the Rings: The Return of the King, Directed by Peter Jackson, Came out in: 2003, Has a rating of 9.0
+The Dark Knight, Directed by Christopher Nolan, Came out in: 2008, Has a rating of 9.0
+Inception, Directed by Christopher Nolan, Came out in: 2010, Has a rating of 8.8
+Forrest Gump, Directed by Robert Zemeckis, Came out in: 1994, Has a rating of 8.8
+Star Wars: Episode V - The Empire Strikes Back, Directed by Irvin Kershner, Came out in: 1980, Has a rating of 8.7
