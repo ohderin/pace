@@ -109,28 +109,28 @@ public class Program1 {
 
             switch (option) {
                 case 1: 
-                    addFood();
-                    break
+                    addFood = new PaneraItem();
+                    break;
 
                 case 2:
                     addBeverage();
-                    break
+                    break;
         
                 case 3:
                     addCoffee();
-                    break
+                    break;
 
                 case 4:
                     addUser();
-                    break
+                    break;
 
                 case 5:
                     sendOrder();
-                    break
+                    break;
 
                 case 6:
                     bulkAdd();
-                    break
+                    break;
 
                 case 7:
                     System.out.println("1. Add Food Object to menu");
@@ -141,11 +141,11 @@ public class Program1 {
                     System.out.println("6. Bulk add menu items");
                     System.out.println("7. Print menu options");
                     System.out.println("8. Exit");
-                    break
+                    break;
                 case 8:
                     exit = true;
                     System.out.println("Exiting...");
-                    break
+                    break;
                 default: 
                     System.out.println("Invalid option");
             }
@@ -158,6 +158,7 @@ public class Program1 {
             double price = scan.nextDouble();
             scan.nextLine();
             System.out.println("Enter item side: ");
+            String side = scan.nextLine();
 
         }
 
